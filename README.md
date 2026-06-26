@@ -4,4 +4,4 @@ Python implementation of HC-PLCS:
 Run **_Encr-PMCS.py_** using any python editor
 Datset file (input and generated cipher text is adde as **_Dataset.xlsx_**
 
-**** **** The usage is limited for educational purpose only. ***** ****
+**NB: The usage is limited for educational purpose only.**
