@@ -3,6 +3,6 @@ This code is part of our new project titled "HC-PLCS: A Hierarchical Context-Awa
 Python implementation of HC-PLCS:
 Run **_HC_PLCS_single_text_execution.py_** using any python editor for single-text processinga nd evaluation. 
 Run **_HC_PLCS_Dataset_text_execution.py_** using any python editor for Dataset processinga nd evaluation. 
-Datset file (input and generated controlled Dataset is **_Dataset.xlsx_** and the public Dataset is **_Dataset1.csv_**
+Datset file (input and generated controlled Dataset is **_Dataset.xlsx_** and the public Dataset is **_Dataset1.csv_** (AICT Sharif, “Persian Typo Correction Dataset,” Hugging Face Datasets, 2025. https://huggingface.co/datasets/aictsharif/perisan_texts_with_typos)
 
 **NB: The usage is limited for educational purpose only.**
