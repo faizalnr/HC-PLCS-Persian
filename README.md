@@ -5,4 +5,4 @@ Run **_HC_PLCS_single_text_execution.py_** using any python editor for single-te
 Run **_HC_PLCS_Dataset_text_execution.py_** using any python editor for Dataset processinga nd evaluation. 
 Datset file (input and generated controlled Dataset is **_Dataset.xlsx_** and the public Dataset is **_Dataset1.csv_** (AICT Sharif, “Persian Typo Correction Dataset,” Hugging Face Datasets, 2025. https://huggingface.co/datasets/aictsharif/perisan_texts_with_typos)
 
-**NB: The usage is limited for educational purpose only.**
+**NB: The usage is limited for educational and research purpose only.**
